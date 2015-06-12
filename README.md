@@ -1,4 +1,6 @@
-# Log4j Example
+# Log4jExample
+
+This is an example project showing how to use Log4j in a Maven project.
 
 Build project.
 
